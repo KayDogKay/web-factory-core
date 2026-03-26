@@ -1,18 +1,22 @@
 {
-  "firmenname": "Müller Haustechnik GmbH",
-  "hero_titel": "Heizung. Sanitär. Solar. Alles aus einer Hand.",
-  "hero_subline": "Schnelle Reaktionszeiten, faire Preise und 25 Jahre Erfahrung im Großraum Erfurt. Wir sind für Sie da – auch im Notfall.",
-  "beschreibung": "Seit über 25 Jahren Ihr zuverlässiger Partner für Sanitär, Heizung und erneuerbare Energien im Großraum Erfurt. Wir stehen für handwerkliche Qualität, transparente Preise und schnelle Reaktionszeiten.",
+  "firmenname": "Baumpflege F. Glüher",
+  "logo_url": "logo-glueher.png",
+  "hero_titel": "Zertifizierte Baumpflege & Fällungen – Ihre Region.",
+  "hero_subline": "Sicher. Kompetent. Schnell. Wir kümmern uns um die Gesundheit Ihrer Bäume.",
+  "beschreibung": "Baumpflege F. Glüher ist Ihr zertifizierter Fachbetrieb für professionelle Baumpflege, Baumfällungen und Forstarbeiten. Mit modernem Equipment, geschultem Personal und jahrelanger Erfahrung arbeiten wir sicher, termingerecht und umweltbewusst.",
   "leistungen": [
-    "Sanitärinstallation & Wartung",
-    "Heizungsanlagen & Modernisierung",
-    "Wärmepumpen & Solarthermie",
-    "Badsanierung & Umbauten",
-    "Notdienst 24/7",
-    "Energieberatung & Förderanträge"
+    "Problembaumfällung",
+    "Seilklettertechnik (SKT)",
+    "Baumschnitt nach ZTV Baumpflege",
+    "Sturmschadenbeseitigung",
+    "Wurzelstockfräsen",
+    "Baumgutachten & Verkehrssicherungspflicht"
   ],
-  "telefon_link": "tel:+4936120000000",
-  "maps_url": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2504.2!2d11.0299!3d50.9848!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNTDCsDU5JzA1LjMiTiAxMcKwMDEnNDcuNiJF!5e0!3m2!1sde!2sde!4v1234567890",
-  "impressum_url": "/impressum.html",
-  "datenschutz_url": "/datenschutz.html"
+  "telefon_link": "tel:+491234567890",
+  "telefon_anzeige": "0123 / 456 78 90",
+  "email": "info@baumpflege-glueher.dummy",
+  "maps_url": "https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d10000!2d10.4515!3d51.1657!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sde!2sde!4v1700000000000",
+  "impressum_url": "#",
+  "datenschutz_url": "#",
+  "footer_text": "© 2026 Baumpflege F. Glüher – Fachbetrieb für Baumpflege & Forstarbeiten."
 }
