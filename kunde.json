@@ -1,5 +1,7 @@
 {
   "firmenname": "Müller Haustechnik GmbH",
+  "hero_titel": "Heizung. Sanitär. Solar. Alles aus einer Hand.",
+  "hero_subline": "Schnelle Reaktionszeiten, faire Preise und 25 Jahre Erfahrung im Großraum Erfurt. Wir sind für Sie da – auch im Notfall.",
   "beschreibung": "Seit über 25 Jahren Ihr zuverlässiger Partner für Sanitär, Heizung und erneuerbare Energien im Großraum Erfurt. Wir stehen für handwerkliche Qualität, transparente Preise und schnelle Reaktionszeiten.",
   "leistungen": [
     "Sanitärinstallation & Wartung",
@@ -8,5 +10,9 @@
     "Badsanierung & Umbauten",
     "Notdienst 24/7",
     "Energieberatung & Förderanträge"
-  ]
+  ],
+  "telefon_link": "tel:+4936120000000",
+  "maps_url": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2504.2!2d11.0299!3d50.9848!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNTDCsDU5JzA1LjMiTiAxMcKwMDEnNDcuNiJF!5e0!3m2!1sde!2sde!4v1234567890",
+  "impressum_url": "/impressum.html",
+  "datenschutz_url": "/datenschutz.html"
 }
