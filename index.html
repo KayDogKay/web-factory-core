@@ -1,9 +1,39 @@
 <!DOCTYPE html>
-<html>
+<html lang="de">
 <head>
-    <title>Web-Fabrik Core</title>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title id="page-title">Lade...</title>
+  <link rel="stylesheet" href="style.css" />
 </head>
 <body>
-    <h1>Template Version 1</h1>
+
+  <header id="site-header">
+    <div class="container">
+      <p class="header-label">Ihr Fachbetrieb</p>
+      <h1 id="firmenname"></h1>
+    </div>
+  </header>
+
+  <main class="container">
+
+    <section id="section-beschreibung">
+      <p id="beschreibung"></p>
+    </section>
+
+    <section id="section-leistungen">
+      <h2>Unsere Leistungen</h2>
+      <ul id="leistungen"></ul>
+    </section>
+
+  </main>
+
+  <footer id="site-footer">
+    <div class="container">
+      <p id="footer-firmenname"></p>
+    </div>
+  </footer>
+
+  <script src="app.js" defer></script>
 </body>
 </html>
