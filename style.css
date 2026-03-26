@@ -1,31 +1,46 @@
 :root {
-  --primary-color: #1a3a5c;
-  --primary-dark: #0f2238;
-  --secondary-color: #e8a020;
-  --secondary-hover: #c8861a;
+  /* ── Brand – Baumpflege Glüher (rustic-modern) ── */
+  --primary-color:   #4e5f28;   /* Eichenblatt-Oliv            */
+  --primary-dark:    #323d19;   /* Dunkel-Oliv (Header/Footer)  */
+  --secondary-color: #e8820a;   /* Sicherheits-Orange (CTA)     */
+  --secondary-hover: #c96d08;   /* CTA hover                    */
+
+  /* ── Typografie ── */
   --font-main: 'Georgia', serif;
-  --font-ui: system-ui, sans-serif;
+  --font-ui:   system-ui, sans-serif;
+
+  /* ── Abstände ── */
   --spacing-sm: 0.75rem;
   --spacing-md: 1.5rem;
   --spacing-lg: 3rem;
   --spacing-xl: 5rem;
+
+  /* ── Layout ── */
   --max-width: 960px;
-  --text-color: #1a1a1a;
-  --text-muted: #555;
-  --text-on-dark: rgba(255, 255, 255, 0.85);
-  --bg-page: #f7f5f2;
+
+  /* ── Farben: Text ── */
+  --text-color:   #1f1f1f;              /* Anthrazit – kein reines Schwarz  */
+  --text-muted:   #4a4a3a;              /* Erd-getöntes Mittelgrau          */
+  --text-on-dark: rgba(255,255,255,0.87);
+
+  /* ── Farben: Hintergründe ── */
+  --bg-page:   #f3ede0;          /* Warmes Creme / Off-White    */
   --bg-header: var(--primary-dark);
-  --bg-hero: var(--primary-color);
-  --card-bg: #ffffff;
-  --card-border: rgba(0, 0, 0, 0.08);
-  --border-accent: var(--secondary-color);
-  --border-radius: 4px;
+  --bg-hero:   var(--primary-color);
+
+  /* ── Farben: Karten & Akzent ── */
+  --card-bg:      #fdfaf4;                  /* Leicht creme-weißer Kartenhintergrund */
+  --card-border:  rgba(78, 95, 40, 0.12);   /* Oliv-getönter Rahmen                 */
+  --border-accent: #7a4f24;                 /* Tiefes Erd-Braun                      */
+
+  /* ── UI ── */
+  --border-radius:     4px;
   --border-radius-btn: 6px;
-  --shadow-card: 0 4px 16px rgba(0, 0, 0, 0.07);
-  --shadow-card-hover: 0 8px 24px rgba(0, 0, 0, 0.12);
-  --map-height: 420px;
-  --cta-min-height: 52px; /* Daumen-freundlich: min. 48px */
-  --transition-fast: 0.18s ease;
+  --shadow-card:       0 4px 16px rgba(30, 25, 10, 0.08);
+  --shadow-card-hover: 0 8px 24px rgba(30, 25, 10, 0.14);
+  --map-height:        420px;
+  --cta-min-height:    52px;
+  --transition-fast:   0.18s ease;
 }
 
 /* ── Reset ── */
