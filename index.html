@@ -9,11 +9,19 @@
 <body>
 
   <header id="site-header">
-    <div class="container">
+    <div class="container header-inner">
       <p class="header-label">Ihr Fachbetrieb</p>
       <h1 id="firmenname"></h1>
     </div>
   </header>
+
+  <section id="hero" aria-label="Einstieg">
+    <div class="container hero-inner">
+      <h2 id="hero-titel"></h2>
+      <p id="hero-subline"></p>
+      <a id="cta-button" href="" role="button">Jetzt anrufen</a>
+    </div>
+  </section>
 
   <main class="container">
 
@@ -26,11 +34,32 @@
       <ul id="leistungen"></ul>
     </section>
 
+    <section id="location" aria-label="Standort">
+      <h2>So finden Sie uns</h2>
+      <div class="map-wrapper">
+        <iframe
+          id="google-maps-frame"
+          src=""
+          width="100%"
+          height="100%"
+          style="border:0;"
+          allowfullscreen=""
+          loading="lazy"
+          referrerpolicy="no-referrer-when-downgrade"
+          title="Standort auf Google Maps"
+        ></iframe>
+      </div>
+    </section>
+
   </main>
 
   <footer id="site-footer">
-    <div class="container">
+    <div class="container footer-inner">
       <p id="footer-firmenname"></p>
+      <nav class="footer-nav" aria-label="Rechtliches">
+        <a id="impressum-link" href="">Impressum</a>
+        <a id="datenschutz-link" href="">Datenschutz</a>
+      </nav>
     </div>
   </footer>
 
